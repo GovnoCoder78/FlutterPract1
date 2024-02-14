@@ -1,16 +1,3 @@
-# pract1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<l1> practice work 1 <l1>
+ ##Окно приложения с заголовком и 5 контейнерами
+ ![image](https://github.com/GovnoCoder78/FlutterPract1/assets/148610971/1f1cc6a3-5488-43ec-ba96-36e181a8b38d)
